@@ -1,0 +1,8 @@
+= Hello Gems!
+
+A simple gem to learn how to build gems from scratch!
+
+== Copyright
+
+Copyright (c) 2012 Eduardo Maia.
+
